@@ -234,7 +234,7 @@ Di seguito trovate un elenco ordinato per argomenti riportante le domande per l'
 - che problema ho se ricarico un processo dopo che era stato swappato?
 
 - Supponiamo di non volere la finestra sulla memoria nella memoria virtuale di ogni processo, ma alcune strutture dati devono poter essere accessibili, quali sono queste strutture dati?
-> Le strutture dati che devo avere necessariamente mappate sono:idt, la gdt->tss, la pila sistema, strutture dati, della ruotine di sistema mi serve solo quanto basta per cambiare la tabella di traduzione
+> Le strutture dati che devo avere necessariamente mappate sono:idt, la gdt->tss, la pila sistema, strutture dati, della routine di sistema mi serve solo quanto basta per cambiare la tabella di traduzione
 
 - Traduzione indirizzi virtuali in fisici
 
